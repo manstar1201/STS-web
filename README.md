@@ -1,8 +1,10 @@
 # STS-web
 STS Task with finetuned model Web Prototype
-# How to Use
+# How to Use(Local)
 - <code>pip install -r requiremnts.txt</code>
 - <code>streamlit run main.py</code>
+# How to Use(Cloud)
+    [LINK CLICK](https://manstar1201-sts-web-main-xx97wt.streamlit.app/)
 ## 1. Task
     Semantic Text Similarity
 ## 2. Model
