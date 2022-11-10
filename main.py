@@ -6,7 +6,7 @@ import torch
 
 st.set_page_config(page_title = "MANSTAR's Test Page", layout = "centered")
 
-st.title("문장 유사도 측정 데모")
+st.title("문장 의미 유사도 측정 데모")
 st.markdown("---")
 col1, col2 = st.columns(2)
 
