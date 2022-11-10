@@ -1,10 +1,11 @@
 # STS-web
 STS Task with finetuned model Web Prototype
-# How to Use(Local)
+# How to Use (Local)
 - <code>pip install -r requiremnts.txt</code>
 - <code>streamlit run main.py</code>
-# How to Use(Cloud)
-    [LINK CLICK](https://manstar1201-sts-web-main-xx97wt.streamlit.app/)
+# Direct Use (Cloud)
+    
+   [Link](https://manstar1201-sts-web-main-xx97wt.streamlit.app/)
 ## 1. Task
     Semantic Text Similarity
 ## 2. Model
@@ -17,4 +18,4 @@ STS Task with finetuned model Web Prototype
 ## 3. Web Prototype
     Streamlit Library
 ## 4. Reference
-    https://github.com/monologg/KoELECTRA
+[monolog](https://github.com/monologg/KoELECTRA)
